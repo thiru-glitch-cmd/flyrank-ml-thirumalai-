@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://thiru-glitch-cmd.github.io/flyrank-ml-internship-starter/
